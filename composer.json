@@ -1,0 +1,11 @@
+{
+    "name": "t-plug/healthy-bite",
+    "authors": [
+        {
+            "name": "Deborah"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.3"
+    }
+}
